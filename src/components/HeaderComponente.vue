@@ -37,7 +37,7 @@ export default {
 header {
   background-color: black;
   display: flex;
-  padding: 0.625rem 3.75rem;
+  padding: 0.625rem 10px;
   justify-content: space-between;
   align-items: center;
 }
